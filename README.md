@@ -143,16 +143,7 @@ Based on these insights, here are actionable recommendations to enhance the perf
 
 This comprehensive analysis provides a strong foundation for stakeholders to make informed decisions and implement strategies that enhance the efficiency, sustainability, and safety of North American transborder freight operations.
 
-## **5\. Deliverables**
-
-The final deliverables for this project include:
-
-* **Visualization File/Link:** To show insights and answer business questions.  
-* **README.md:** This documentation file on GitHub detailing the entire process.  
-* **Code File/Script File:** The Python script(s) used for data analysis.  
-* **Presentation File:** Detailing the business questions, a brief overview of the methods used, and the final insights.
-
-## **6\. Skills Used**
+## **5\. Skills Used**
 
 * CRISP-DM Methodology  
 * Data Engineering  
