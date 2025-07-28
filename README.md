@@ -2,8 +2,8 @@
 
 Project Owner: Berlinda Anaman  
 Email: Berlana.d@gmail.com  
-Github Profile: (Berlinda Anaman)[https://github.com/Berl-cloud]  
-LinkedIn Profile: (Berlinda Anaman)[https://www.linkedin.com/in/berlinda-anaman/]
+Github Profile: [Berlinda Anaman](https://github.com/Berl-cloud)  
+LinkedIn Profile: [Berlinda Anaman](https://www.linkedin.com/in/berlinda-anaman/)
 
 ## **1\. Project Overview**
 
