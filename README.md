@@ -73,14 +73,6 @@ The EDA phase involved visualizing and summarizing the prepared data to uncover 
 * **Commodity Flow:** High-value commodities include vehicles, machinery, and electrical equipment. High-weight commodities are mineral fuels, salt/sulfur, and wood.  
 * **Freight Charges:** Air and "Other" modes show higher average freight charges per kilogram, while Pipeline and Rail are most cost-efficient per kilogram.
 
-### **3.5. Modeling (Not Applicable for this Project)**
-
-As this project focuses on data analysis and insights, a formal predictive modeling phase was not within its scope.
-
-### **3.6. Evaluation & Deployment**
-
-This phase involves evaluating the insights and recommendations for their business relevance and preparing them for deployment (e.g., in reports, presentations). The conclusions and recommendations derived from the EDA serve as the primary output, guiding stakeholders in decision-making.
-
 ## **4\. Conclusion and Recommendations**
 
 ### **Key Insights from Exploratory Data Analysis (EDA)**
@@ -140,8 +132,6 @@ Based on these insights, here are actionable recommendations to enhance the perf
      * **Delay/Congestion data:** Average transit times, border wait times, and frequency of delays.  
    * **Why:** Direct data on these aspects is critical for developing targeted strategies for sustainability and safety improvements.  
    * **Impact:** Enables data-driven policies for reducing environmental impact (e.g., promoting greener modes, optimizing fuel use) and enhancing safety protocols, leading to fewer incidents and a more secure transportation network.
-
-This comprehensive analysis provides a strong foundation for stakeholders to make informed decisions and implement strategies that enhance the efficiency, sustainability, and safety of North American transborder freight operations.
 
 ## **5\. Skills Used**
 
